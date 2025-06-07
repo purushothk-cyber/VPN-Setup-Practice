@@ -1,0 +1,36 @@
+Cyber Security Internship – Task 8
+
+Task Title: VPN Setup and Privacy Protection
+
+Objective:
+To understand how Virtual Private Networks (VPNs) work, their encryption mechanisms, and how they help protect online privacy.
+
+Tools Used:
+- ProtonVPN (Free Tier)
+- Kali Linux Terminal (for ifconfig verification)
+
+Steps Followed:
+1. Signed up and installed ProtonVPN.
+2. Logged in and connected to a free server (Netherlands – NL-FREE#227).
+3. Verified VPN connection using `ifconfig` in terminal – new IP `10.2.0.2` confirmed.
+4. Captured screenshot as proof of VPN connectivity.
+5. Researched and noted down VPN benefits and limitations.
+
+VPN Benefits:
+- Hides original IP address
+- Encrypts all traffic
+- Protects data on public Wi-Fi
+- Bypasses content restrictions
+
+VPN Limitations:
+- Slower network speeds
+- Free versions may have fewer server options
+- Cannot guarantee full anonymity
+- May not prevent browser-based tracking
+
+Screenshot:
+See `vpn_screenshot.png` for VPN connection proof.
+
+Conclusion:
+Gained hands-on experience in setting up a VPN and understanding how it ensures privacy and data protection during internet usage.
+
